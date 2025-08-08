@@ -42,20 +42,20 @@ Total: **2 hrs** (built‑in 10‑min break midway)
 
 ## 3  12‑Month Curriculum
 
-| Mo. | Leadership / Soft Skill    | Foundational Tech          | Trending Tech                            | Micro‑project Deliverable                |
-| --- | -------------------------- | -------------------------- | ---------------------------------------- | ---------------------------------------- |
-| 1   | DEP Way & Code of Conduct  | Data Lifecycle & Roles     | Data & AI Industry Trends                | 3‑rule moderation guide + kickoff agenda |
-| 2   | Inclusive Facilitation     | SQL Modeling               | dbt Semantic Layer & Metrics             | Mini dbt project + meetup run‑of‑show    |
-| 3   | Storytelling & Writing     | Git/GitHub Workflows       | Docs‑as‑Code (Markdown, etc)             | Event recap post + playbook draft        |
-| 4   | Designing Impactful Events | ELT Patterns               | DuckDb & ClickHouse                      | ELT demo repo + next meetup brief        |
-| 5   | Mentoring & Coaching       | Data Quality & Tests       | Data Contracts & Observability           | Tests added to repo + mentoring log      |
-| 6   | Ethics, Privacy, Safety    | Data Governance            | Synthetic Data & Pseudonymization        | Lightweight data policy + de‑ID demo     |
-| 7   | Partnerships & Outreach    | Project Scoping & ROI      | Running a DEP program                    | Partner emails + one‑pager deck          |
-| 8   | Running Study Groups       | Visualization & Dashboards | BI deployment / Metrics Catalog          | 4‑week study‑group outline + dashboard   |
-| 9   | Difficult Conversations    | Data Science               | Common Data Science & ML use cases       | Streaming demo + moderation templates    |
-| 10  | Public Speaking Lab        | Timeseries & Forecasting   | Common Timeseries problems and use cases | 7‑min lightning talk + TS notebook       |
-| 11  | Strategy & Roadmapping     | Deep Learning & A.I.       | LLM/RAG/Agentic Projects                 | 6‑month roadmap + RAG design doc         |
-| 12  | Succession & Governance    | SOPs & Runbooks            | Leadership 101                           | Lead capstone event + publish SOPs       |
+| Mo. | Leadership / Soft Skill             | Foundational Tech          | Trending Tech                            | Micro‑project Deliverable                |
+| --- | ----------------------------------- | -------------------------- | ---------------------------------------- | ---------------------------------------- |
+| 1   | DEP Way & Code of Conduct           | Data Lifecycle & Roles     | Data & AI Industry Trends                | 3‑rule moderation guide + kickoff agenda |
+| 2   | Inclusive Facilitation              | SQL Modeling               | dbt Semantic Layer & Metrics             | Mini dbt project + meetup run‑of‑show    |
+| 3   | Storytelling & Writing              | Git/GitHub Workflows       | Docs‑as‑Code (Markdown, etc)             | Event recap post + playbook draft        |
+| 4   | Designing Impactful Events          | ELT Patterns               | DuckDb & ClickHouse                      | ELT demo repo + next meetup brief        |
+| 5   | Mentoring & Coaching (speed dating) | Data Quality & Tests       | Data Contracts & Observability           | Tests added to repo + mentoring log      |
+| 6   | Ethics, Privacy, Safety             | Data Governance            | Synthetic Data & Pseudonymization        | Lightweight data policy + de‑ID demo     |
+| 7   | Partnerships & Outreach             | Project Scoping & ROI      | Running a DEP program                    | Partner emails + one‑pager deck          |
+| 8   | Running Study Groups                | Visualization & Dashboards | BI deployment / Metrics Catalog          | 4‑week study‑group outline + dashboard   |
+| 9   | Difficult Conversations             | Data Science               | Common Data Science & ML use cases       | Streaming demo + moderation templates    |
+| 10  | Public Speaking Lab                 | Timeseries & Forecasting   | Common Timeseries problems and use cases | 7‑min lightning talk + TS notebook       |
+| 11  | Strategy & Roadmapping              | Deep Learning & A.I.       | LLM/RAG/Agentic Projects                 | 6‑month roadmap + RAG design doc         |
+| 12  | Succession & Governance             | SOPs & Runbooks            | Leadership 101                           | Lead capstone event + publish SOPs       |
 
 > **Capstone:** Each participant fully owns a public DEP activity (event, study group, partnership project) with post‑mortem write‑up.
 
@@ -108,14 +108,14 @@ Total: **2 hrs** (built‑in 10‑min break midway)
 
 ## 7  Assessment & Metrics
 
-|Dimension|Metric|Target|
-|---|---|---|
-|**Participation**|Session attendance|≥ 80 % per cohort|
-|**Delivery**|Micro‑project on‑time rate|≥ 70 %|
-|**Autonomy**|Events led without advisor|≥ 6 / year|
-|**Quality**|Event NPS|≥ +40|
-|**Growth**|New volunteers recruited by cohort|≥ 1 each|
-|**Sustainability**|Active partnerships|≥ 3|
+| Dimension          | Metric                             | Target            |
+| ------------------ | ---------------------------------- | ----------------- |
+| **Participation**  | Session attendance                 | ≥ 80 % per cohort |
+| **Delivery**       | Micro‑project on‑time rate         | ≥ 70 %            |
+| **Autonomy**       | Events led without advisor         | ≥ 6 / year        |
+| **Quality**        | Event NPS                          | ≥ +40             |
+| **Growth**         | New volunteers recruited by cohort | ≥ 1 each          |
+| **Sustainability** | Active partnerships                | ≥ 3               |
 
 Quarterly pulse surveys + peer 360‑feedback inform adjustments.
 
